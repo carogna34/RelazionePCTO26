@@ -120,12 +120,15 @@ export default function Attivita() {
               <h3 className="text-3xl md:text-4xl font-serif font-normal tracking-tight text-text-primary mb-5">
                 Mondo Corporate e Università
               </h3>
-              <p className="text-lg text-text-secondary leading-relaxed">
+              <p className="text-lg text-text-secondary leading-relaxed mb-4">
                 L&apos;esperienza ha offerto uno spaccato autentico sulla vita in una multinazionale
                 (&quot;Life at Deloitte&quot;) e sulle professioni STEM. Il percorso si e concluso con
-                l&apos;orientamento al <strong className="text-text-primary">Politecnico di Bari</strong>,
-                unendo la visione aziendale a quella formativa accademica.
+                l&apos;orientamento al <strong className="text-text-primary">Politecnico di Bari</strong>.
               </p>
+              <a href="#orientamento" className="inline-flex items-center gap-2 text-sm text-accent hover:text-accent-dark transition-colors font-medium">
+                Leggi di piu sull&apos;orientamento
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" /></svg>
+              </a>
             </ScrollReveal>
           </div>
         </div>

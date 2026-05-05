@@ -8,6 +8,7 @@ const sections = [
   { id: 'attivita', label: 'Attivita' },
   { id: 'sfide', label: 'Sfide' },
   { id: 'competenze', label: 'Skills' },
+  { id: 'orientamento', label: 'Orientamento' },
   { id: 'galleria', label: 'Galleria' },
   { id: 'riflessioni', label: 'Riflessioni' },
 ];

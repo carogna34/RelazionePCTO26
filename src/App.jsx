@@ -4,6 +4,7 @@ import Intro from './components/Intro';
 import Attivita from './components/Attivita';
 import SfidePratiche from './components/SfidePratiche';
 import Competenze from './components/Competenze';
+import Orientamento from './components/Orientamento';
 import Galleria from './components/Galleria';
 import Riflessioni from './components/Riflessioni';
 import Footer from './components/Footer';
@@ -18,6 +19,7 @@ function App() {
         <Attivita />
         <SfidePratiche />
         <Competenze />
+        <Orientamento />
         <Galleria />
         <Riflessioni />
       </main>
