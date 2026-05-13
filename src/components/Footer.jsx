@@ -27,7 +27,7 @@ export default function Footer() {
               </p>
             </div>
             <div className="text-left md:text-right">
-              <p className="text-[10px] uppercase tracking-[0.2em] text-slate-500 mb-0.5">Relazione PCTO</p>
+              <p className="text-[10px] uppercase tracking-[0.2em] text-slate-500 mb-0.5">Relazione FSL</p>
               <p className="text-sm text-slate-300">
                 Deloitte NextHub Bari — Marzo 2026 — 35 ore
               </p>
@@ -37,7 +37,7 @@ export default function Footer() {
 
         <div className="mt-8 pt-6 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-3">
           <p className="text-sm text-slate-500">
-            Realizzato per il percorso di Formazione Scuola-Lavoro (PCTO/FSL).
+            Realizzato per il percorso di Formazione Scuola-Lavoro (FSL/FSL).
           </p>
           <p className="text-sm text-slate-500">
             Tutti i contenuti sono originali e riferiti all&apos;esperienza personale.

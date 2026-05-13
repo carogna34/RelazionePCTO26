@@ -58,7 +58,7 @@ export default function Riflessioni() {
               </div>
               <div className="text-lg md:text-xl text-text-secondary leading-relaxed space-y-4">
                 <p>
-                  Prima di questo PCTO avevo un&apos;idea principalmente teorica del mondo tech. Dopo cinque giorni in un <strong className="text-text-primary">ambiente reale</strong> — tra server rack, AI e presentazioni corporate — ho potuto osservare concretamente come funziona il settore e quali dinamiche lo caratterizzano.
+                  Prima di questo FSL avevo un&apos;idea principalmente teorica del mondo tech. Dopo cinque giorni in un <strong className="text-text-primary">ambiente reale</strong> — tra server rack, AI e presentazioni corporate — ho potuto osservare concretamente come funziona il settore e quali dinamiche lo caratterizzano.
                 </p>
                 <p>
                   Questa esperienza mi ha permesso di sviluppare una <strong className="text-text-primary">visione consapevole</strong>: ho riconosciuto il valore della tecnologia come <strong className="text-text-primary">strumento strategico</strong>, capace di trasformare dati e problemi complessi in <strong className="text-text-primary">soluzioni concrete</strong>, e ho apprezzato la combinazione tra innovazione, lavoro di squadra e approccio progettuale.
@@ -118,7 +118,7 @@ export default function Riflessioni() {
                 Un sentito ringraziamento a <strong className="text-text-primary">Deloitte Italia</strong> e
                 a tutto il team del NextHub Bari. Grazie al tutor aziendale{' '}
                 <strong className="text-text-primary">Francesco Diamante</strong> per la pazienza e
-                la guida. Grazie alla scuola IISS &quot;Ferraris&quot; e al referente PCTO. E grazie
+                la guida. Grazie alla scuola IISS &quot;Ferraris&quot; e al referente FSL. E grazie
                 ai compagni di squadra: insieme abbiamo dimostrato che la collaborazione genuina
                 genera risultati concreti.
               </p>

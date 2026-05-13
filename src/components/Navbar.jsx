@@ -49,7 +49,7 @@ export default function Navbar() {
             href="#hero"
             className="px-4 py-2 text-sm font-semibold tracking-tight text-text-primary rounded-full hover:bg-white/60 transition-colors font-serif italic"
           >
-            PCTO <span className="text-accent not-italic">26</span>
+            FSL <span className="text-accent not-italic">26</span>
           </a>
 
           <div className="hidden md:flex items-center">

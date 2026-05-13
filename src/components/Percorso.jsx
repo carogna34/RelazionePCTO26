@@ -40,7 +40,7 @@ export default function Percorso() {
               </ScrollReveal>
               <ScrollReveal delay={0.1}>
                 <p className="text-lg text-text-secondary leading-relaxed mb-8">
-                  Percorso PCTO di Deloitte NextHub in collaborazione con il Politecnico di Bari.
+                  Percorso FSL di Deloitte NextHub in collaborazione con il Politecnico di Bari.
                   Cinque giorni intensivi di innovazione, tecnologia e orientamento.
                 </p>
               </ScrollReveal>

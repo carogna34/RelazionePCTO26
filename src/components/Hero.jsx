@@ -67,7 +67,7 @@ export default function Hero() {
             >
               Relazione
               <br />
-              <span className="text-accent italic">PCTO</span> 2026
+              <span className="text-accent italic">FSL</span> 2026
             </motion.h1>
 
             <motion.p

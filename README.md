@@ -1,6 +1,6 @@
-# Relazione PCTO 2026 — Deloitte NextHub Bari
+# Relazione FSL 2026 — Deloitte NextHub Bari
 
-Sito web interattivo per la relazione del percorso PCTO/FSL svolto presso **Deloitte NextHub Bari** in collaborazione con il **Politecnico di Bari**.
+Sito web interattivo per la relazione del percorso FSL/FSL svolto presso **Deloitte NextHub Bari** in collaborazione con il **Politecnico di Bari**.
 
 ## Informazioni
 
@@ -12,7 +12,7 @@ Sito web interattivo per la relazione del percorso PCTO/FSL svolto presso **Delo
 
 ## Descrizione
 
-Il sito racconta l'esperienza completa del PCTO attraverso una narrazione visuale e interattiva, suddivisa in sezioni:
+Il sito racconta l'esperienza completa del FSL attraverso una narrazione visuale e interattiva, suddivisa in sezioni:
 
 - **Hero & Intro** — Presentazione dell'esperienza e della sede Deloitte
 - **Attività** — Giornate formative, workshop e visite
@@ -33,8 +33,8 @@ Il sito racconta l'esperienza completa del PCTO attraverso una narrazione visual
 
 ```bash
 # Clona il repository
-git clone https://github.com/carogna34/RelazionePCTO26.git
-cd RelazionePCTO26
+git clone https://github.com/carogna34/RelazioneFSL26.git
+cd RelazioneFSL26
 
 # Installa le dipendenze
 npm install
@@ -49,7 +49,7 @@ npm run build
 ## Struttura
 
 ```
-relazione-pcto-sito/
+relazione-FSL-sito/
 ├── public/images/        # Immagini e asset
 ├── src/
 │   ├── components/       # Componenti React
@@ -61,4 +61,4 @@ relazione-pcto-sito/
 
 ## Licenza
 
-Contenuti originali riferiti all'esperienza personale. Realizzato per il percorso di Formazione Scuola-Lavoro (PCTO/FSL).
+Contenuti originali riferiti all'esperienza personale. Realizzato per il percorso di Formazione Scuola-Lavoro (FSL/FSL).

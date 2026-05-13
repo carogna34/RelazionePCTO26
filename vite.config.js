@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/RelazionePCTO26/',
+  base: '/RelazioneFSL26/',
   plugins: [react(), tailwindcss()],
 })
